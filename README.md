@@ -1,8 +1,9 @@
 
-CVFS - Customized Virtual File System
+Marvellous CVFS - Customized Virtual File System
 -----------------------------------------------------------------------
 
 Author: Pradnya Subhash Chaudhari
+
 Date: 10/08/2025  
 Language: C++  
 Description: A command-line-based virtual file system simulator.
